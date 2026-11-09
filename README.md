@@ -15,3 +15,7 @@ La tournée initiale 1-2-3-4-5-6-7-8-1 est réalisable et coûte 103.
 1. Recherche taboue : avec un voisinage 2-opt, une liste taboue de taille 5 et 20 itérations, la meilleure tournée obtenue est 1-2-4-5-6-7-3-8-1, de coût 98.
 2. Recuit simulé : cinq itérations, graine 42 et température initiale 100 divisée par 2 à chaque itération (100, 50, 25, 12.5, 6.25). La meilleure tournée conservée est la tournée initiale 1-2-3-4-5-6-7-8-1, de coût 103.
 3. Algorithme génétique : population de 100 tournées, sélection par tournoi, croisement d'ordre, mutation par échange avec une probabilité de 0.15, élitisme et 200 générations. La meilleure tournée obtenue est 1-8-3-7-6-5-4-2-1, de coût 98.
+
+## Nouvel exercice : ordonnancement des maintenances
+
+Le dossier [cedule/](cedule/README.md) présente le problème de planification des maintenances résolu par un algorithme génétique. Il contient la formulation mathématique, les données, les opérateurs employés, les paramètres, un exemple de résultat et les instructions d'exécution.
