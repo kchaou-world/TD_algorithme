@@ -19,3 +19,7 @@ La tournée initiale 1-2-3-4-5-6-7-8-1 est réalisable et coûte 103.
 ## Nouvel exercice : ordonnancement des maintenances
 
 Le dossier [cedule/](cedule/README.md) présente le problème de planification des maintenances résolu par un algorithme génétique. Il contient la formulation mathématique, les données, les opérateurs employés, les paramètres, un exemple de résultat et les instructions d'exécution.
+
+## TD4 - Kchaou Mohamed
+
+Le dossier [Kchaou_Mohamed_TD4/](Kchaou_Mohamed_TD4/README.md) contient les réponses aux quatre exercices du TD4 et le programme Python de colonie de fourmis pour le sac à dos.
